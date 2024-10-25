@@ -1,0 +1,9 @@
+@import "/css/bootstrap/bootstrap.css";
+
+
+.contact-text{
+    background: lightblue;
+}
+.form-select{
+    font-weight: bold;
+}
